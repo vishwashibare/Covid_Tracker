@@ -22,4 +22,4 @@ graph , easy understandable mode . APIs used to show all the stats .
 
 ## Screenshots
 
-<img src="resources/SS/covid_ss.png" alt="Screenshot" width="125" height="125">
+<img src="resources/SS/covid_ss.png" alt="Screenshot" width="500" height="500">
