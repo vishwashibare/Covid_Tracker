@@ -20,4 +20,6 @@ graph , easy understandable mode . APIs used to show all the stats .
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="31px" height="31px"></a>
 
-<img src="resources/SS/covid_ss.png" alt="Screenshot">
+## Screenshots
+
+<img src="resources/SS/covid_ss.png" alt="Screenshot" width="125" height="125">
